@@ -4,7 +4,7 @@ This personal website is originated from https://ivyee17.github.io. It is design
 
 ## For users
 
-Nothing more than visiting right now: [Link](https://whwu17.github.io/)!
+Nothing more than visiting right now: https://whwu17.github.io/!
 
 ## For contributors
 
